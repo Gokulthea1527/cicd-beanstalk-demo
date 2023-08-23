@@ -7,3 +7,5 @@ CREATE TABLE IF NOT EXISTS contact
     contact_cell  VARCHAR(12));
 
 insert into contact_db.contact values ( 1001, "sekar" , "sekarfeb@gmail.com" , "9894982451")
+insert into contact_db.contact values ( 1002, "rahul" , "sekarfeb@gmail.com" , "9894982451")
+
